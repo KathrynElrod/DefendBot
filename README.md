@@ -15,4 +15,4 @@ git clone https://github.com/KathrynElrod/DefendBot.git
 cd DefendBot
 python3 main.py
 ```
-Do not use other applications while the progam is running. It's not dangerous, it just won't work and it'll try to type into whatever program you use. Also, I strongly recommend using a VPN so whatever transphobic fuck runs the website doesn't get your home IP.
+Do not use other applications while the progam is running. It's not dangerous, it just won't work and it'll try to type into whatever program you use. Also, I strongly recommend using a VPN so whatever transphobic fuck runs the website doesn't get your home IP. To stop the program, use ctrl+c (^ c) in the terminal.
